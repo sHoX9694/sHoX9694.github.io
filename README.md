@@ -1,2 +1,2 @@
-# sHoX9694_BC25940.github.io
+# sHoX9694.github.io
 For testing the ESF Submission form
